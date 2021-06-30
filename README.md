@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/NoSugarCoffee/NoSugarCoffee/raw/master/developer.gif"/>
+  <img align="center" src="https://github.com/NoSugarCoffee/NoSugarCoffee/blob/main/developer.gif"/>
   </p>
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=NoSugarCoffee&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
