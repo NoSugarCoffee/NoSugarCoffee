@@ -10,7 +10,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Leyan Technologies](https://www.leyantech.com/)
+- 🔭 I was working on [Leyan Technologies](https://www.leyantech.com/)
+- 🔭 I’m currently working on [Trip.com Group](https://group.trip.com/)
 
 <p  align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NoSugarCoffee.NoSugarCoffee" alt="visitor badge"/>       
