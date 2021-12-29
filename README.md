@@ -15,3 +15,5 @@
 <p  align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NoSugarCoffee.NoSugarCoffee" alt="visitor badge"/>       
 </p>
+
+![contribute](https://github.com/NoSugarCoffee/shixu/blob/output/github-snake.svg)
