@@ -10,7 +10,8 @@
 
 ### Hi there 👋
 
-- 🔭 Working on Engineering Productivity
+- 🔭 Currently Working on Engineering Productivity
+- 😀 🙄 🙄 😀
 
 <p  align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NoSugarCoffee.NoSugarCoffee" alt="visitor badge"/>       
