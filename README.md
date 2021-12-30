@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-- 🔭 Currently Working on Engineering Productivity
+- 🔭 Work on Engineering Productivity
 - 😀 🙄 🙄 😀
 
 <p  align="center">
