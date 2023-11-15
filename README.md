@@ -17,4 +17,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NoSugarCoffee.NoSugarCoffee" alt="visitor badge"/>       
 </p>
 
-![contribute](https://github.com/NoSugarCoffee/NoSugarCoffee.github.io/blob/output/github-contribution-grid-snake.svg)
+![contribute](https://github.com/NoSugarCoffee/NoSugarCoffee/blob/output/github-contribution-grid-snake.svg)
