@@ -10,7 +10,8 @@
 
 ### Hi there 👋
 
-- 😀 Work on Engineering Productivity
+- 😀 Work on Engineering Productivity (CI/CD and more)
+- 😙 Developer specialized in Golang and Java
 - 🙄 [Personal blog](https://nosugarcoffee.github.io/)
 
 <p  align="center">
