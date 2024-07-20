@@ -10,9 +10,9 @@
 
 ### Hi there 👋
 
-- 😀 Work on Engineering Productivity (CI/CD and more)
-- 😙 Developer specialized in Golang and Java
-- 🙄 [Personal blog](https://nosugarcoffee.github.io/)
+- Work on Engineering Productivity (CI/CD and more)
+- Developer specialized in Golang and Java
+- 👉 [Personal blog](https://nosugarcoffee.github.io/)
 
 <p  align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NoSugarCoffee.NoSugarCoffee" alt="visitor badge"/>       
