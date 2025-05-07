@@ -10,8 +10,8 @@
 
 ### Hi there 👋
 
-- Work on Engineering Productivity (CI/CD and others)
-- Developer specializing in Golang and Java
+- Focus on CI/CD pipelines and other aspects of engineering efficiency
+- Specialize in developing with Golang and Java
 - 👉 [Personal Blog](https://nosugarcoffee.github.io/)
 
 <p  align="center">
