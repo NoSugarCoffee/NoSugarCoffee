@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋 I'm NoSugarCoffee</h1>
 
 <p align="center">
-  <video src="self-intro.mp4" autoplay loop muted playsinline width="600"></video>
+  <img src="self-intro.gif" width="600" alt="Self intro"/>
 </p>
 
 <p align="center">
