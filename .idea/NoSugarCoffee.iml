@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/github/NoSugarCoffee/node_modules/hyperframes/dist/templates" />
+      </list>
+    </option>
+  </component>
+</module>

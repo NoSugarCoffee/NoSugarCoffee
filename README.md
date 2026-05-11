@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋 I'm NoSugarCoffee</h1>
 
 <p align="center">
-  <img src="https://github.com/NoSugarCoffee/NoSugarCoffee/blob/main/developer.gif" width="600"/>
+  <video src="self-intro.mp4" autoplay loop muted playsinline width="600"></video>
 </p>
 
 <p align="center">
@@ -38,3 +38,6 @@ Software engineer specializing in **CI/CD pipelines** and **engineering efficien
 ## 🐍 Contribution Graph
 
 ![contribute](https://github.com/NoSugarCoffee/NoSugarCoffee/blob/output/github-contribution-grid-snake.svg)
+
+> Self intro source: [`self-intro.hyperframes.html`](./self-intro.hyperframes.html) — render with `npm run render`
+

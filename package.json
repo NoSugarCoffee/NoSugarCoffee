@@ -1,0 +1,12 @@
+{
+  "name": "nosugarcoffee-intro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check:intro": "node scripts/check-self-intro.js",
+    "render": "cp self-intro.hyperframes.html index.html && hyperframes render . --out self-intro.mp4; rm -f index.html"
+  },
+  "dependencies": {
+    "hyperframes": "^0.5.7"
+  }
+}
